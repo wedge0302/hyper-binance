@@ -1,0 +1,18 @@
+{
+  "privateKey": "0xf32f7887872b19f4299e4b28778bf152b340846e5b04cbb144481b977c8ab6b5",
+  "address": "0x52c62963b3bf2b9c51dfad825fcb499abbc55424",
+  "testnet": false,
+  "symbols": ["NOT", "MANTA", "POLYX", "USTC", "REZ", "RSR", "GMT", "GALA", "UMA", "GAS", "ZETA", "BIGTIME", "MEW", "VINE", "kLUNC", "BOME", "PEOPLE", "ORDI", "NEO", "BANANA", "XAI", "IOTA", "ANIME", "MAV", "BABY", "NXPC", "DOOD", "WCT", "LAYER", "SCR", "KAS", "DYM", "SAND", "RUNE", "TNSR"],
+  "candleInterval": "3m",
+  "gapThreshold": 0.001,
+  "notionalUSDC": 12,
+  "aggressiveBps": 5,
+  "takeProfitPct": 0.005,
+  "stopLossPct": 0.01,
+  "takeProfitUSDC": 0,
+  "stopLossUSDC": 0,
+  "takeProfitMarket": false,
+  "stopLossMarket": false,
+  "reduceOnly": false,
+  "vaultAddress": ""
+}
