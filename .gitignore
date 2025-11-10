@@ -1,0 +1,17 @@
+# build & archives
+*.tar.gz
+*.zip
+*.log
+bin/
+dist/
+
+# configs / secrets
+config.json
+jump_config.json
+*.env
+*.key
+*.pem
+
+# IDE
+.vscode/
+.idea/
